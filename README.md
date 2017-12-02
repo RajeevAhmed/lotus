@@ -1,2 +1,2 @@
 # lotus
-Lotuscoin repository for south asia 
+Lotuscoin repository for 1.749 billion people of South Asia 
